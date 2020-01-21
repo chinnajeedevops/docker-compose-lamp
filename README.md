@@ -24,7 +24,7 @@ Clone this repository on your local computer and checkout the appropriate branch
 Run the `docker-compose up -d`.
 
 ```shell
-git clone https://github.com/sprintcube/docker-compose-lamp.git
+git clone https://github.com/chinnajeedevops/docker-compose-lamp.git
 cd docker-compose-lamp/
 git fetch --all
 git checkout 7.4.x
